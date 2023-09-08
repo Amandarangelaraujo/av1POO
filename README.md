@@ -6,7 +6,7 @@ você foi contratado para desenvolver um sistema de gest˜ao carros de luxo em u
 desta empresa pode possuir mais de 10 carros, desta maneira, seu gestor pediu que o algoritmo fosse constru´ıdo
 utilizando os conhecimentos obtidos na primeira etapa da disciplina de Programa¸c˜ao Orientada a Objeto. Isto posto,
 fa¸ca o que se pede:
-• [1,0 ponto(s)] Construa uma classe chamada Cliente que possua os atributos referente a nome, idade e
+• [1,0 ponto(s)] Con strua uma classe chamada Cliente que possua os atributos referente a nome, idade e
 renda anual, bem como seus m´etodos getters e setters.
 • [3,5 ponto(s)] Construa uma classe referente a um Carro que possua:
 1. [0,5 ponto(s)] atributos referente a marca, modelo, cor do carro e seu pre¸co atual.
